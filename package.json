@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "build": "echo \"Built from source\" && exit 0",
     "test": "echo \"Status: Everything is OK\" && exit 0"
   },
   "keywords": [],
